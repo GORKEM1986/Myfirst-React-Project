@@ -1,7 +1,15 @@
+*{
+  background-color: blueviolet;
+}
 .App {
   text-align: center;
+ 
 }
-
+input{
+  margin-top: 10rem;
+  border-radius: 10px;
+  background-color: aquamarine;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
